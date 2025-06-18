@@ -8,7 +8,7 @@ Modern Fortnite Builds downloads  and link | Starts from Ch4 Up to CH6
 
 ### Modern FN-Builds
 
-| Build | Download Link | Folder / Root | 
+| FN Seasons , Builds | Direct Download Links | Folders / Roots | 
 |-------|---------------|---------------|
 | **Chapter 4Season 1** 23.00-CL-23344627 | [Gofile](https://cold-na-phx-4.gofile.io/download/web/485d3737-abc6-451e-b689-03c58f31ca0c/23.00-CL-23344627.7z) | [Gofile Root](https://gofile.io/d/cw0eee)
 | **Chapter 4Season 2** 24.20-CL-25156858 | [Gofile](https://store10.gofile.io/download/web/0390fe8d-f51c-4e5e-9699-05b3319d8562/24.20-CL-25156858.zip) | [Gofile Root](https://gofile.io/d/cw0eee)
@@ -25,7 +25,9 @@ Modern Fortnite Builds downloads  and link | Starts from Ch4 Up to CH6
 | **Chapter 5 Season 3** 30.00-CL-33962396 | [Gofile](https://store1.gofile.io/download/web/ffa037a2-b070-4941-875b-6158b5b131fa/%2B%2BFortnite%2BRelease-30.00-CL-33962396.rar) | [Gofile Folder](https://gofile.io/d/ZjRYts)
 
 
-
-*Some **Other** builds will come in the future.*
+**NOTE:**
+- *Some **Other** builds will come in the future.*
+- Above S30  in-game AKA load into map will not be possible with **Crabon** !! (just to know that)
+- Sometimes you cant downlaod from "Golfile Root" or "Gofile Folders" That means it expired!!
 
 
