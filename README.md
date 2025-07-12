@@ -1,6 +1,11 @@
 # FN-Modern-builds
 Modern Fortnite Builds downloads  and link | Starts from Ch4 Up to CH6
 
+# FN item archive
+For projects and for commands u can use this.
+[FN Item archive](https://docs.google.com/spreadsheets/d/1vnj3mX5qLLa9sPlNcj5uRevWlRaf7kd7quK6wFEo_6Y/edit?gid=0#gid=0)
+
+
 
 ## Sources:
 - [***Crabon's Library***](https://builds.cbn.lol/builds)
