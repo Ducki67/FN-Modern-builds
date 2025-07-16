@@ -14,7 +14,7 @@ For projects and for commands u can use this.
 > **Some Builds are down!** I do **Not** host these files and these just links from external sources.
 
 
-### Modern FN-Builds 23.50-CL-24376996
+### Modern FN-Builds
 
 | FN Seasons , Builds | Direct Download Links | Folders / Roots | 
 |-------|---------------|---------------|
