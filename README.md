@@ -39,7 +39,7 @@ For projects and for commands u can use this.
 
 **NOTE:**
 - *Some **Other** builds will come in the future.*
-- Above S30  in-game AKA load into map will not be possible with **Crabon** !! (just to know that)
+- Above S30  in-game AKA load into map will not be possible with **Carbon** !! (just to know that)
 - Sometimes you cant downlaod from "Golfile Root" or "Gofile Folders" That means it expired!!
 - **PLS** note me in issue tickets IF any of these links doesn't work for you!!
 
