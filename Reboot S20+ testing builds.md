@@ -45,25 +45,29 @@ The list of build that i found for testing / you can try
 
 ## Currently tested by Me:
 
-**22.10**
+>## 22.10
+>
+>- Cant even launch :(
+>- Crashes
 
- Cant even launch :(
 
-**20.40** 
 
-IMPORTANT: use **Starfall.dll** as *your* account to get in lobby and after that to host a server swich back to **cobalt.dll** for the host account!!!
-
-- U can load in with skins and pickaxes, 
-- No sprining, 
-- U can mantle itw works fine, 
-- Looting a chest or anything will crash the bost the game and server,
-- U get some hight ping, (since is not supported well)
-- U cant farm mats you gotta use commands,
-
-For mats and ammo and a set of guns  use: 
+>## 20.40
+>
+>IMPORTANT: use **Starfall.dll** as *your* account to get in lobby and after that to host a server swich back to **cobalt.dll** for the host account!!!
+>
+>- U can load in with skins and pickaxes, 
+>- No sprining, 
+>- U can mantle itw works fine, 
+>- Looting a chest or anything will crash the bost the game and server,
+>- U get some hight ping, (since is not supported well)
+>- U cant farm mats you gotta use commands,
+>
+> **For mats and ammo and a set of guns use this command line that I created:** 
 ```batch
 cheat giveitem AthenaAmmoDataShells 9999 | cheat giveitem AmmoDataRockets 9999 | cheat giveitem AmmoDataEnergyCell 9999 | cheat giveitem AthenaAmmoDataBulletsHeavy 9999 | cheat giveitem AthenaAmmoDataBulletsLight 9999 | cheat giveitem AthenaAmmoDataBulletsMedium 9999 | cheat giveitem MetalItemData 999 | cheat giveitem StoneItemData 999 | cheat giveitem WoodItemData 999 | cheat giveitem WID_Shotgun_Standard_Athena_SR_Ore_T03 | cheat giveitem WID_Assault_Auto_Athena_R_Ore_T03 | cheat giveitem WID_Pistol_AutoHeavyPDW_Athena_SR_Ore_T03 | heat giveitem WID_Sniper_Heavy_Athena_VR_Ore_T03
 ```
+
 
 
 
