@@ -119,12 +119,7 @@ IMPORTANT: use **Starfall.dll** as *your* account to get in lobby and after that
 
 For mats and ammo and a set of guns  use: 
 ```batch
-
 cheat giveitem AthenaAmmoDataShells 9999 | cheat giveitem AmmoDataRockets 9999 | cheat giveitem AmmoDataEnergyCell 9999 | cheat giveitem AthenaAmmoDataBulletsHeavy 9999 | cheat giveitem AthenaAmmoDataBulletsLight 9999 | cheat giveitem AthenaAmmoDataBulletsMedium 9999 | cheat giveitem MetalItemData 999 | cheat giveitem StoneItemData 999 | cheat giveitem WoodItemData 999 | cheat giveitem WID_Shotgun_Standard_Athena_SR_Ore_T03 | cheat giveitem WID_Assault_Auto_Athena_R_Ore_T03 | cheat giveitem WID_Pistol_AutoHeavyPDW_Athena_SR_Ore_T03 | heat giveitem WID_Sniper_Heavy_Athena_VR_Ore_T03
-
-
-
-
 ```
 
 
