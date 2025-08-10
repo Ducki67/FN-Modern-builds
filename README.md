@@ -99,3 +99,6 @@ The list of build that i found for testing / you can try
 | 23.40 | [1](https://public.simplyblk.xyz/23.40.zip) | SimplyBLK
 | 23.50 | [1](https://public.simplyblk.xyz/23.50.zip) | SimplyBLK
 
+
+**Currently tested by Me:**
+22.10 Cant even launch
