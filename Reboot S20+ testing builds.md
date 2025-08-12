@@ -66,13 +66,6 @@ cheat giveitem AthenaAmmoDataShells 9999 | cheat giveitem AmmoDataRockets 9999 |
 ```
 
 
->## 22.10
-> [Issue](https://github.com/user-attachments/assets/ede93ff4-0efe-478f-a5d9-c147597bdff6)
->
->- Cant even launch :(
->- Crashes
-
-
 
 >## 21.00
 >
@@ -118,6 +111,11 @@ cheat giveitem AthenaAmmoDataShells 9999 | cheat giveitem AmmoDataRockets 9999 |
 
 
 
+>## 22.10
+> [Issue](https://github.com/user-attachments/assets/ede93ff4-0efe-478f-a5d9-c147597bdff6)
+>
+>- Cant even launch :(
+>- Crashes
 
 
 
