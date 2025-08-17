@@ -26,8 +26,11 @@ Here's a  lil'  Tutorial for the DLL to compile it.
 ## The steps
 - **1.** Download the Reboot source code from (**Requirements**) then extract it Using Winrar or anything you have
 - **2.** Open the `Project Reboot 3.0.sln` file
-- **3.** On top of VS2022 change the `Debug` to **`Release `**  AND right next to it make sure its set to `X64` ( it kinda depends on you / your development what u want to use it for)
-- **4.** Go on very to where its says `Build` click on it and chose **`Build Solution`** OR **`Ctrl + Shift + B`**
+- **3.** go to `inc.h` file and on Line 26 remove two slashes (/) to uncomment it! (make sure to do save in the file with `Ctrk + Shift + S` )
+- **4.** On top of VS2022 change the `Debug` to **`Release `**  AND right next to it make sure its set to `X64` ( it kinda depends on you / your development what u want to use it for)
+- **5.** Go on very to where its says `Build` click on it and chose **`Build Solution`** OR **`Ctrl + Shift + B`**
+- **6. (S22 Console dll)** IF your season is broken for the Console dll just go in `dllmain.cpp` file and on Line 904 remove two slashes (/) for **"`#define CLIENT_ONLY`"** IF you do this your Reboot dll will be made as a console dll !!!! ( This is not needed for season between 20.00 - 22.30 and S23+ !!)
+
 
 And now you made it! now from here on your own. 
 
@@ -140,6 +143,7 @@ cheat giveitem AthenaAmmoDataShells 9999 | cheat giveitem AmmoDataRockets 9999 |
 >
 >- Cant even launch :(
 >- Crashes
+
 
 
 
