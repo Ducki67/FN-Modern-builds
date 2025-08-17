@@ -10,9 +10,30 @@ Here are the builds that Milxnor tested:
  <img width="436" height="449" alt="image" src="https://github.com/user-attachments/assets/34fb4bbd-9eba-4a4e-ba2e-ffa2305a4d0e" />
 
 
-The list of build that i found for testing / you can try
+## How to get Reboot Season20+ DLL?
+### Simply just make it on you own!
 
-**These builds are Above S19 AKA Above Ch3S1 !!!**
+Here's a  lil'  Tutorial for the DLL to compile it.
+
+**NOTE:** DON'T DO THIS DLL STUFF IF YOU ARE TOO STUPID FOR IT AND DONT KNOW HOW TO USE CODING SOFTWERS **AND** NO ONE WILL EVER HELP YOU IN REBOOT SUPPORT ABOUT S20+ !!!
+
+**Requirements:**
+
+- Visual Studio 2022
+- Reboot GS source code [Here btw](https://github.com/Milxnor/Project-Reboot-3.0)
+- Winrar (for extracting the source code BTW not really needed )
+
+## The steps
+- **1.** Download the Reboot source code from (**Requirements**) then extract it Using Winrar or anything you have
+- **2.** Open the `Project Reboot 3.0.sln` file
+- **3.** On top of VS2022 change the `Debug` to **`Release `**  AND right next to it make sure its set to `X64` ( it kinda depends on you / your development what u want to use it for)
+- **4.** Go on very to where its says `Build` click on it and chose **`Build Solution`** OR **`Ctrl + Shift + B`**
+
+And now you made it! now from here on your own. 
+
+IF you are gonna use the source in you project GIVE Credits to the Reboot team or i will come after you.
+
+
 
 
 
@@ -20,7 +41,10 @@ The list of build that i found for testing / you can try
 
 
 # Tested / Under testing builds
+ 
+The list of build that i found for testing / you can try
 
+**These builds are Above S19 AKA Above Ch3S1 !!!**
 
 | Build | Download | Source type / From | Tested? |
 |--|--|--|--|
@@ -116,6 +140,7 @@ cheat giveitem AthenaAmmoDataShells 9999 | cheat giveitem AmmoDataRockets 9999 |
 >
 >- Cant even launch :(
 >- Crashes
+
 
 
 
