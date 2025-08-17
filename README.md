@@ -55,8 +55,8 @@ For projects and for commands u can use this.
 ## About Carbon
 For more info join the discord: [***Join the Carbon discord here!***](https://discord.gg/SvHNxmYCeD)
 
-# Reboot S20+ testing builds
-[***Check here***](https://github.com/Ducki67/FN-Modern-builds/blob/main/Reboot%20S20%2B%20testing%20builds.md)
+# Reboot S20+ testing builds and tutorial
+## [***Check here***](https://github.com/Ducki67/FN-Modern-builds/blob/main/Reboot%20S20%2B%20testing%20builds.md)
 
 
 
