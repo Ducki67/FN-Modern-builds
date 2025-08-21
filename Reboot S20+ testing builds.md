@@ -56,18 +56,21 @@ The list of build that i found for testing / you can try
 | 20.20 | [Link 1](https://public.simplyblk.xyz/20.20.zip) | SimplyBLK | Not yet :/ |
 | 20.30 | [Link 1](https://galaxiafn.co.uk/20.30.zip) [Link 2](https://cdn.cbn.lol/20.30) | GalaxiaFn / Carbon | Soon :) |
 | 20.40 | [Link 1](https://public.simplyblk.xyz/20.40.zip) [Link 2](https://builds.rebootfn.org/20.40.zip) | SimplyBLK / RebootFn| Tested :)) |
-| 21.00 | [Link 1](https://r2.ploosh.dev/21.00.zip) | Ploosh | Tested :)) |
+| 21.00 | [Link 1](https://r2.ploosh.dev/21.00.zip) [Link 2](https://cdn.solarisfn.org/21.00.zip) [Link 3](https://builds.fn-builds.net/21.00-CL-20463113.7z) | Ploosh / SolarisFn / ByZN | Tested :)) |
 | 21.10 | [Link 1](https://public.simplyblk.xyz/21.10.zip) | SimplyBLK | Note yet
-| 21.20 | [Link 1](https://cdn.cbn.lol/21.20) | Carbon | Tested :)) |
-| 21.30 | [Link 1](https://cdn.cbn.lol/21.30) | Carbon | Tested :)) |
-| 21.40 | [Link 1](https://cdn.cbn.lol/21.40) | Carbon | Tetsed :)) |
+| 21.20 | [Link 1](https://cdn.cbn.lol/21.20) [Link 2](https://builds.fn-builds.net/21.20-CL-21035704.7z) | Carbon / ByZN | Tested :)) |
+| 21.30 | [Link 1](https://cdn.cbn.lol/21.30) [Link 2](https://builds.fn-builds.net/21.30-CL-21155462.7z) | Carbon / ByZN | SOON |
+| 21.40 | [Link 1](https://cdn.cbn.lol/21.40) [Link 2](https://builds.fn-builds.net/21.40-CL-21407327.7z)| Carbon / ByZN | Tetsed :)) |
 | 21.50 | [Link 1](https://public.simplyblk.xyz/21.50.zip) | SimplyBLK| Not yet :/ |
-| 21.51 | [Link 1](https://public.simplyblk.xyz/21.51.7z) | SimplyBLK | Soon :) |
+| 21.51 | [Link 1](https://public.simplyblk.xyz/21.51.7z) [Link 2](https://builds.fn-builds.net/21.51-CL-21735703.7z) | SimplyBLK / ByZN | Soon :) |
 | 22.00 | [Link 1](https://public.simplyblk.xyz/22.00.7z) | SimplyBLK | Soon:) |
-| 22.10 | [Link 1](https://cdn.cbn.lol/22.10) | Carbon | Tested :)) |
-| 23.00 | [Link 1](https://public.simplyblk.xyz/23.00.7z) | SimplyBLK | Not tested / May not work |
-| 23.10 | [Link 1](https://public.simplyblk.xyz/23.10.rar) | SimplyBLK | Not tested / May not work |
-| 23.40 | [Link 1](https://public.simplyblk.xyz/23.40.zip) | SimplyBLK | Not tested / May not work |
+| 22.10 | [Link 1](https://cdn.cbn.lol/22.10) [Link 2](https://builds.fn-builds.net/22.00-CL-22149829.7z) | Carbon / ByZN | Tested :)) |
+| 22.20 | [Link 1](https://builds.fn-builds.net/22.20-CL-22600409.7z) | ByZN | Note tested yet :( |
+| 22.40 | [Link 1](https://builds.fn-builds.net/22.40-CL-23070899.7z) | ByZN | Note tested yte :( |
+| 23.00 | [Link 1](https://public.simplyblk.xyz/23.00.7z) [Link 2](https://builds.fn-builds.net/23.00-CL-23344627.7z) | SimplyBLK / byZN | Not tested / May not work |
+| 23.10 | [Link 1](https://public.simplyblk.xyz/23.10.rar) [Link 2](https://builds.fn-builds.net/23.10-CL-23572221.zip) | SimplyBLK / ByZN | Not tested / May not work |
+| 23.20 | [Link 1](https://builds.fn-builds.net/23.20-CL-23783097.zip) | ByZN | Not tested / May not work |
+| 23.40 | [Link 1](https://public.simplyblk.xyz/23.40.zip) [Link 2](https://builds.fn-builds.net/23.40-CL-24087481.zip) | SimplyBLK / ByZN | Not tested / May not work |
 | 23.50 | [Link 1](https://public.simplyblk.xyz/23.50.zip) [Link 2](https://titanac.xyz/23.50.rar) | SimplyBLK / Project Nexa| Tested / Didnt work yet |
 
 
@@ -130,6 +133,10 @@ cheat giveitem AthenaAmmoDataShells 9999 | cheat giveitem AmmoDataRockets 9999 |
 
 
 
+# 21.30 (soon)
+
+
+
 >## 21.40
 >[Issue](https://github.com/user-attachments/assets/c8a18941-16cc-4a84-ae2a-ca09171526ba)
 >
@@ -143,6 +150,7 @@ cheat giveitem AthenaAmmoDataShells 9999 | cheat giveitem AmmoDataRockets 9999 |
 >
 >- Cant even launch :(
 >- Crashes
+
 
 
 
