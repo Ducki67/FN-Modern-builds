@@ -55,7 +55,7 @@ The list of build that i found for testing / you can try
 | 20.10 | [Link 1](https://public.simplyblk.xyz/20.10.zip) | SimplyBLK | Not yet :/ |
 | 20.20 | [Link 1](https://public.simplyblk.xyz/20.20.zip) | SimplyBLK | Not yet :/ |
 | 20.30 | [Link 1](https://galaxiafn.co.uk/20.30.zip) [Link 2](https://cdn.cbn.lol/20.30) | GalaxiaFn / Carbon | Soon :) |
-| 20.40 | [Link 1](https://public.simplyblk.xyz/20.40.zip) [Link 2](https://builds.rebootfn.org/20.40.zip) | SimplyBLK / RebootFn| Tested :)) |
+| 20.40 | [Link 1](https://public.simplyblk.xyz/20.40.zip) [Link 2](https://builds.rebootfn.org/20.40.zip) [Link 3](https://cdn.cbn.lol/20.40) | SimplyBLK / RebootFn / Carbon| Tested :)) |
 | 21.00 | [Link 1](https://r2.ploosh.dev/21.00.zip) [Link 2](https://cdn.solarisfn.org/21.00.zip) [Link 3](https://builds.fn-builds.net/21.00-CL-20463113.7z) | Ploosh / SolarisFn / ByZN | Tested :)) |
 | 21.10 | [Link 1](https://public.simplyblk.xyz/21.10.zip) | SimplyBLK | Note yet
 | 21.20 | [Link 1](https://cdn.cbn.lol/21.20) [Link 2](https://builds.fn-builds.net/21.20-CL-21035704.7z) | Carbon / ByZN | Tested :)) |
@@ -150,6 +150,7 @@ cheat giveitem AthenaAmmoDataShells 9999 | cheat giveitem AmmoDataRockets 9999 |
 >
 >- Cant even launch :(
 >- Crashes
+
 
 
 
