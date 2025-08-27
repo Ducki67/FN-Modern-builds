@@ -95,6 +95,13 @@ The list of build that i found for testing / you can try
 cheat giveitem AthenaAmmoDataShells 9999 | cheat giveitem AmmoDataRockets 9999 | cheat giveitem AmmoDataEnergyCell 9999 | cheat giveitem AthenaAmmoDataBulletsHeavy 9999 | cheat giveitem AthenaAmmoDataBulletsLight 9999 | cheat giveitem AthenaAmmoDataBulletsMedium 9999 | cheat giveitem MetalItemData 999 | cheat giveitem StoneItemData 999 | cheat giveitem WoodItemData 999 | cheat giveitem WID_Shotgun_Standard_Athena_SR_Ore_T03 | cheat giveitem WID_Assault_Auto_Athena_R_Ore_T03 | cheat giveitem WID_Pistol_AutoHeavyPDW_Athena_SR_Ore_T03 | cheat giveitem WID_Sniper_Heavy_Athena_VR_Ore_T03
 ```
 
+>## 20.40-CL-20244966
+> issue image soon
+>
+> Encrypt error >:(
+>- Cant even launch :(
+>- Crashes
+
 
 
 >## 21.00
@@ -150,6 +157,7 @@ cheat giveitem AthenaAmmoDataShells 9999 | cheat giveitem AmmoDataRockets 9999 |
 >
 >- Cant even launch :(
 >- Crashes
+
 
 
 
