@@ -96,9 +96,9 @@ cheat giveitem AthenaAmmoDataShells 9999 | cheat giveitem AmmoDataRockets 9999 |
 ```
 
 >## 20.40-CL-20244966
-> issue image soon
+>    issue image soon
 >
-> Encrypt error >:(
+>  Encrypt error >:(
 >- Cant even launch :(
 >- Crashes
 
@@ -122,7 +122,7 @@ cheat giveitem AthenaAmmoDataShells 9999 | cheat giveitem AmmoDataRockets 9999 |
 
 
 
->## 21.20
+>## 21.20-CL-20978394 ( Carbon one )
 >[Issue](https://github.com/user-attachments/assets/c63ad6c8-e1a8-4375-869d-a30b9ee23bd5)
 >
 >- Cant even launch :(
@@ -131,8 +131,7 @@ cheat giveitem AthenaAmmoDataShells 9999 | cheat giveitem AmmoDataRockets 9999 |
 
 
 
-
->## 21.20
+>## 21.20-CL-20978394 ( Crabon one )
 >[Issue](https://github.com/user-attachments/assets/261cdde5-9b78-4270-9f52-17927045d76f)
 >
 >- Cant even launch :(
@@ -144,7 +143,7 @@ cheat giveitem AthenaAmmoDataShells 9999 | cheat giveitem AmmoDataRockets 9999 |
 
 
 
->## 21.40
+>## 21.40-CL-21407327 ( Carbon one )
 >[Issue](https://github.com/user-attachments/assets/c8a18941-16cc-4a84-ae2a-ca09171526ba)
 >
 >- Cant even launch :(
@@ -152,11 +151,12 @@ cheat giveitem AthenaAmmoDataShells 9999 | cheat giveitem AmmoDataRockets 9999 |
 
 
 
->## 22.10
+>## 21.10-CL-20696680 ( Carbon one )
 > [Issue](https://github.com/user-attachments/assets/ede93ff4-0efe-478f-a5d9-c147597bdff6)
 >
 >- Cant even launch :(
 >- Crashes
+
 
 
 
