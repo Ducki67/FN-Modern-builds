@@ -86,7 +86,7 @@ The list of build that i found for testing / you can try
 >- U can load in with skins and pickaxes, 
 >- No sprining, 
 >- U can mantle itw works fine, 
->- Looting a chest or anything will crash the bost the game and server,
+>- Looting a chest or anything will crash the both the game and server,
 >- U get some hight ping, (since is not supported well)
 >- U cant farm mats you gotta use commands,
 >
@@ -111,7 +111,7 @@ cheat giveitem AthenaAmmoDataShells 9999 | cheat giveitem AmmoDataRockets 9999 |
 >- U can load in with skins and pickaxes, 
 >- No sprining, 
 >- U can mantle itw works fine, 
->- Looting a chest or anything will crash the bost the game and server,
+>- Looting a chest or anything will crash the both the game and server,
 >- U get some hight ping, (since is not supported well)
 >- U cant farm mats you gotta use commands,
 >
@@ -156,6 +156,7 @@ cheat giveitem AthenaAmmoDataShells 9999 | cheat giveitem AmmoDataRockets 9999 |
 >
 >- Cant even launch :(
 >- Crashes
+
 
 
 
