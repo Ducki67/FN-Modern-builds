@@ -4,6 +4,8 @@ A simple static site to list Fortnite builds, their changelist (CL), status, and
 
 *This source code is **100%** free and open source so enjoy :)*
 
+Curently live at: **https://ducki67.github.io/FN-Modern-builds/**
+
 ## 🧱 Structure
 - `index.html`: Main webpage
 - `builds.js`: Contains build info
