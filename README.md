@@ -1,6 +1,13 @@
 # FN-Modern-builds
 Modern Fortnite Builds downloads  and link | Starts from Ch4 Up to CH6
 
+>ALSO heres a simple site for S20+ builds :))
+>
+>Curently live at: **https://ducki67.github.io/FN-Modern-builds/**
+>
+> src code (100% free) **https://github.com/Ducki67/FN-Modern-builds/tree/basic-site-src**
+> 3rd branch btw!
+
 For all skins in Carbon for free:
 
 [**Here is my tut on YT**](https://www.youtube.com/watch?v=feWEh21lVrM) btw im not asking you to like or sub just to know that :)
