@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FN S20+ Builds</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Fortnite Builds Archive</h1>
+    <p>This simple site for listing S20+ links the source is open feel  free to use it. </p>
+  </header>
+<p>Builds list:</p>
+
+  <main id="builds-container"></main>
+
+  <!-- Modal -->
+  <div id="mirror-modal" class="modal">
+    <div class="modal-content">
+      <span id="close-modal">&times;</span>
+      <h2 id="modal-title">Download Mirrors</h2>
+      <div id="mirror-list"></div>
+    </div>
+  </div>
+
+  <footer>
+    <p>Maintained by <strong>Ducki67</strong> | Hosted on GitHub Pages</p>
+  </footer>
+
+  <script src="builds.js"></script>
+  <script>
+    const container = document.getElementById("builds-container");
+    const modal = document.getElementById("mirror-modal");
+    const mirrorList = document.getElementById("mirror-list");
+    const closeModal = document.getElementById("close-modal");
+
+    Object.keys(builds).forEach(season => {
+      const section = document.createElement("section");
+      section.className = "season";
+
+      const header = document.createElement("div");
+      header.className = "season-header";
+      header.innerHTML = `<h2>${season}</h2><span class="arrow">▼</span>`;
+      header.onclick = () => section.classList.toggle("expanded");
+
+      const buildsList = document.createElement("div");
+      buildsList.className = "builds-list";
+
+      builds[season].forEach(b => {
+        const isAllOffline = b.downloads.every(d => d.status === "offline");
+        const card = document.createElement("div");
+        card.className = "build-card " + (isAllOffline ? "offline" : "online");
+        card.innerHTML = `
+          <h3>${b.name}</h3>
+          <p><strong>CL:</strong> ${b.cl}</p>
+          <p class="status"><strong>Status:</strong> ${isAllOffline ? "Offline" : "Online"}</p>
+          <button class="download-btn">Download</button>
+        `;
+        card.querySelector(".download-btn").onclick = () => showMirrors(b);
+        buildsList.appendChild(card);
+      });
+
+      section.appendChild(header);
+      section.appendChild(buildsList);
+      container.appendChild(section);
+    });
+
+    function showMirrors(build) {
+      mirrorList.innerHTML = "";
+      document.getElementById("modal-title").innerText = `Mirrors for ${build.name}`;
+      build.downloads.forEach((m, i) => {
+        const div = document.createElement("div");
+        div.className = "mirror-item " + (m.status === "online" ? "online" : "offline");
+        div.innerHTML = `
+          <p><strong>Mirror ${i + 1}</strong> — ${m.status.toUpperCase()}</p>
+          <a href="${m.url}" target="_blank" ${m.status === "offline" ? "class='disabled'" : ""}>Open</a>
+        `;
+        mirrorList.appendChild(div);
+      });
+      modal.classList.add("show");
+    }
+
+    closeModal.onclick = () => modal.classList.remove("show");
+    window.onclick = (e) => { if (e.target === modal) modal.classList.remove("show"); };
+  </script>
+</body>
+</html>
