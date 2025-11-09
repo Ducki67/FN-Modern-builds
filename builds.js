@@ -209,9 +209,9 @@ const builds = {
   "Season 25": [
     { name: "v25.00", cl: "CL-25000000", downloads: [
         { url: "https://mirror1.example.com/v25.00.zip", status: "offline" },
-        { url: "https://mirror2.example.com/v25.00.zip", status: "online" },
+        { url: "https://mirror2.example.com/v25.00.zip", status: "offline" },
         { url: "https://mirror3.example.com/v25.00.zip", status: "offline" },
-        { url: "https://mirror4.example.com/v25.00.zip", status: "online" }
+        { url: "https://mirror4.example.com/v25.00.zip", status: "offline" }
     ] },
     { name: "v25.11", cl: "CL-26171015", downloads: [
         { url: "https://r2.ploosh.dev/25.11.zip", status: "online" },
