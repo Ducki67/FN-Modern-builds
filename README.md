@@ -1,4 +1,6 @@
-# FN Builds S20+ arhvive (site)
+# FN Builds S20+ archive
+
+## (site)
 
 A simple static site to list Fortnite builds, their changelist (CL), status, and download links.
 
